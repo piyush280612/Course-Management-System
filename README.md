@@ -17,16 +17,7 @@ This is a fully functional Course Management system using JDBC to connect Java a
 - MySQL
 - OOP principles
 
-📁Folder Structure
-src/
-├── Main.java
-├── Student.java
-├── StudentDAO.java
-├── Course.java
-├── CourseDAO.java
-├── Enrollment.java
-├── EnrollmentDAO.java
-└── DBconnection.java
+
 
 🛠 Setup Instructions
 
